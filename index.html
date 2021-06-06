@@ -1,0 +1,212 @@
+
+
+
+<!DOCTYPE html>
+
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+
+<!--[if IE 7]> <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+
+<!--[if IE 8]> <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+
+
+
+<head>
+
+<meta charset="utf-8">
+
+
+
+<!-- note: if you set this header in .htaccess,
+
+then you can remove this line if you prefer -->
+
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+
+
+<title>BU Artemis Project</title>
+
+<meta name="description" content="Five-week summer program for rising 9th grade girls in the Boston area who are interested in learning about science and technology. Apply online.">
+
+<meta name="author" content="Adam the Super Awesome Javascript Ninja">
+
+
+
+<!-- optimize Mobile viewport -->
+
+<!-- note: to prevent ugly layout shifts when switching
+
+from portrait to landscape on iPads/iPhones/iStuff/smart phones, you
+
+can add maximum-scale=1.0 to this tag. Unfortunately, this will also
+
+prevent users of those devices from zooming in on this page. -->
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+
+
+<link rel="stylesheet" href="https://yui-s.yahooapis.com/combo?2.9.0/build/reset-fonts-grids/reset-fonts-grids.css">
+
+<link rel="stylesheet" type="text/css" href="styles/adam_styles.css"/>
+
+
+
+<!-- Modernizr helps older browsers deal with HTML5 elements -->
+
+<script src="js/modernizr-2.0.6.min.js"></script>
+
+<style type="text/css">
+<!--
+.style1 {color: #000000}
+.style2 {
+	font-size: 18px;
+	font-weight: bold;
+}
+-->
+</style>
+</head>
+
+
+
+<body class="yui-skin-sam">
+
+
+
+<!-- #doc2 = 950px width, centered -->
+
+<div id="doc2" class="yui-t7">
+
+  <header id="hd">
+  </header>
+    
+  <table width="100%"  border="0">
+    <tr>
+        <td>
+            <img id="logo" src="img/main/Artemis%20Logo.png" width="438" height="53">
+        </td>
+        <td>
+            <a id="bu-logo" href="//www.bu.edu/" target="new"><img src="img/main/bu-logo.gif" alt="Boston University" width="112" height="50" align="right"></a>
+        </td>
+    </tr>
+  </table>
+
+    
+<div id="bd">
+
+<!-- first row -->
+
+<div class="yui-g">
+
+
+<blockquote>
+  <div align="center"><strong><br>
+  </strong></div>
+  <blockquote>
+    <p align="center" class="style1 style2">2021 ONLINE Dates: July 5-July 30th--<a href="applications.html">APPLY NOW</a>!</p>
+  </blockquote>
+  </blockquote>
+<nav>
+    <ul>
+        <li><a href="about.html">About Artemis</a></li>
+        <li><a href="applications_closed.html">Apply</a></li>
+        <li><a href="schedule.html">Schedule</a></li>
+        <li><a href="contact.html">Contact Us</a></li>
+    </ul>
+</nav>
+</div>
+
+
+
+<!-- video -->
+
+<div id="mediaspace">
+	
+<iframe width="948" height="510" src="//www.youtube.com/embed/3ZsxBWinpS8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</div>
+
+
+
+<!-- second row -->
+
+<div class="yui-g">
+
+<span class="col">
+
+<a href="gallery.html">Student Gallery</a>
+
+<img src="img/main/studentgallery.jpg" alt="Student Gallery Pic">
+
+</span>
+
+
+
+<span class="col">
+
+<a href="sponsors.html">Sponsors</a>
+
+<img src="img/main/sponsors.jpg" alt="Sponsors Pic">
+
+</span>
+
+
+
+<span class="col">
+
+<a href="resources.html">Resources</a>
+
+<img src="img/main/resources.jpg" alt="Resources Pic">
+
+</span>
+
+
+
+<span class="col">
+
+<a href="faq.html">FAQ</a>
+
+<img src="img/main/faq.jpg" alt="FAQ Pic">
+
+</span>
+
+</div>
+
+
+
+<footer>
+
+    <br>
+
+</footer>
+
+
+
+</div> <!--! end of #bd -->
+</div> <!--! end of #doc2 -->
+
+
+
+
+<script>
+
+var Konami = function () { var a = { addEvent: function (e, c, b, d) { if (e.addEventListener) { e.addEventListener(c, b, false) } else { if (e.attachEvent) { e["e" + c + b] = b; e[c + b] = function () { e["e" + c + b](window.event, d) }; e.attachEvent("on" + c, e[c + b]) } } }, input: "", pattern: "3838404037393739666513", load: function (b) { this.addEvent(document, "keydown", function (d, c) { if (c) { a = c } a.input += d ? d.keyCode : event.keyCode; if (a.input.indexOf(a.pattern) != -1) { a.code(b); a.input = ""; return } }, this); this.iphone.load(b) }, code: function (b) { window.location = b }, iphone: { start_x: 0, start_y: 0, stop_x: 0, stop_y: 0, tap: false, capture: false, keys: ["UP", "UP", "DOWN", "DOWN", "LEFT", "RIGHT", "LEFT", "RIGHT", "TAP", "TAP", "TAP"], code: function (b) { window.location = b }, load: function (b) { a.addEvent(document, "touchmove", function (c) { if (c.touches.length == 1 && a.iphone.capture == true) { var d = c.touches[0]; a.iphone.stop_x = d.pageX; a.iphone.stop_y = d.pageY; a.iphone.tap = false; a.iphone.capture = false; a.iphone.check_direction() } }); a.addEvent(document, "touchend", function (c) { if (a.iphone.tap == true) { a.iphone.check_direction() } }, false); a.addEvent(document, "touchstart", function (c) { a.iphone.start_x = c.changedTouches[0].pageX; a.iphone.start_y = c.changedTouches[0].pageY; a.iphone.tap = true; a.iphone.capture = true }) }, check_direction: function () { x_magnitude = Math.abs(this.start_x - this.stop_x); y_magnitude = Math.abs(this.start_y - this.stop_y); x = ((this.start_x - this.stop_x) < 0) ? "RIGHT" : "LEFT"; y = ((this.start_y - this.stop_y) < 0) ? "DOWN" : "UP"; result = (x_magnitude > y_magnitude) ? x : y; result = (this.tap == true) ? "TAP" : result; if (result == this.keys[0]) { this.keys = this.keys.slice(1, this.keys.length) } if (this.keys.length == 0) { this.code(this.link) } } } }; return a };
+
+</script>
+
+<script>
+
+konami = new Konami(); konami.pattern = "38384040373937396665"; konami.code = function () { alert(String.fromCharCode(65, 100, 97, 109, 32, 38, 32, 75, 97, 116, 101, 32, 119, 101, 114, 101, 32, 104, 101, 114, 101)); }; konami.load();
+
+</script>
+
+
+
+</body>
+
+
+
+</html>

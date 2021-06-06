@@ -1,0 +1,218 @@
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+
+<html>
+
+<head>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="Content-Language" content="en-us">
+  <meta http-equiv="X-UA-Compatible" content="IE=8">
+    <meta name="robots" content="index, follow">
+    <meta name="description" content="Free, five-week summer day camp for rising 9th and 10th grade girls
+    in the Boston area who are interested in learning about science and technology. Apply online.">
+
+    <title>BU Artemis Project | Coordinators</title>
+    <link rel="stylesheet" type="text/css" href="styles/styles.css">
+</head>
+
+<body class="background">
+    <div class="header">
+        <div class="line-wrapper">
+            <div class="line">
+                <img class="artemis-logo" src="img/main/Artemis%20Logo.png"
+                    alt="Artemis Project Logo" width="438" height="53" usemap = #home>
+                <map name="home">
+                  <area shape="rect" coords="0,0,450,100" alt="artemis-logo" href="index.html">
+                </map>
+                <a class="bu-logo" href="http://www.bu.edu" target="new">
+                   <img src="img/main/bu-logo.gif"
+                        alt="Boston University" width="112" height="50">
+                </a>
+            </div>
+        </div>
+    </div>
+    <div class="content">
+      <div class="main">
+          <div class="picture">
+            <img src="img/banners/Group2019.png" alt="Artemis Coordinators">
+                </div>
+            <div class="info"><br>
+                <h3><br>The coordinators for Artemis 2019 are:</h3><br>
+    <ul><li><a href="#Camryn">Camryn Williams</a></li>
+        <li><a href="#Sanjana">Sanjana Srisakulchawla</a></li>
+        <li><a href="#Nicole">Nicole Elbeery</a></li>
+        <li><a href="#Carolyn">Carolyn Kolaczyk</a></li>
+    </ul>
+    <br>
+    <p> We are undergraduate women studying Computer Science and Engineering at Boston University. </p>
+
+
+    <h3><br><a name="Camryn">Camryn Williams</a></h3>
+        <br>
+        <img src="img/coordinators/Camryn.jpeg" alt="Camryn" class="floatLeft" width="300">
+        <p>
+        <br>
+          Age: 20 <br>
+          Hometown: Roseville, CA
+        </p>
+        <br>
+
+        <p>
+          <b>Favorites</b>                                           <br>
+          Color: Purple                                          <br>
+          Artist/Band: Panic! at the Disco                                 <br>
+          Food: Tacos                               <br>
+          Programming Language: C++                              <br>
+          App: Spotify                      <br>
+          Dessert: Banana Cream Pie
+        </p>
+        <br>
+
+        <p>
+           If I were an animal, I'd be a(n) <b>Narwhal.</b>              <br>
+           My birthday is <b>January 28th.</b>                      <br>
+           If I were an ice cream flavor, I'd be <b>Cookies and Cream.</b>    <br>
+           If I had a superpower, it'd be <b>Telekinesis.</b>       <br>
+        </p>
+        <br>
+
+        <p>
+          Hobbies/Interests: Cooking, Movies, Hiking, and Traveling.              <br>
+          What did you want to be when you were a little kid? A veterinarian. <br>
+        </p>
+        <br>
+
+
+
+   <h3><br><a name="Sanjana">Sanjana Srisakulchawla</a></h3>
+        <br>
+        <img src="img/coordinators/Sanjana.png" alt="Sanjana" class="floatLeft" width='300'>
+        <p>
+        <br>
+          Age:  20                                         <br>
+          Hometown: Bangkok, Thailand
+        </p>
+        <br>
+
+        <p>
+          <b>Favorites</b>                                 <br>
+          Color: Yellow                                    <br>
+          Artist/Band: Lauv                     <br>
+          Food: Tea                               <br>
+          Programming Language: C                      <br>
+          App: Spotify                   <br>
+          Dessert: Chocolate Cake
+        </p>
+        <br>
+
+        <p>
+           If I were an animal, I'd be a(n) <b>Sloth.</b>         <br>
+           My birthday is <b>November 6th.</b>                 <br>
+           If I were an ice cream flavor, I'd be <b>Chocolate.</b>   <br>
+           If I had a superpower, it'd be <b> Invisibility.</b>         <br>
+        </p>
+        <br>
+
+        <p>
+          Hobbies/Interests: Reading, Cooking, Netflix .    <br>
+          What did you want to be when you were a little kid? An interior designer.
+        </p>
+        <br>
+
+    <h3><br><a name="Nicole">Nicole Elbeery</a></h3><br>
+        <img src="img/coordinators/Nicole.jpg" width="300" alt="Nicole" class="floatLeft">
+        <p>
+        <br>
+          Age:  20                             <br>
+          Hometown: Andover, MA
+        </p>
+        <br>
+
+        <p>
+          <b>Favorites</b>                     <br>
+          Color: Hot Pink                          <br>
+          Artist/Band: Khalid      <br>
+          Food: Bread                   <br>
+          Programming: C++                     <br>
+          App: Instagram       <br>
+          Dessert: Frosting
+        </p>
+        <br>
+
+        <p>
+          If I were an animal, I'd be a(n) <b>Dolphin.</b>          <br>
+          My birthday is <b>June 8th.</b>                       <br>
+          If I were an ice cream flavor, I'd be <b>Mint Moose Tracks.</b>  <br>
+          If I had a superpower, it'd be <b>Photographic Memory.</b>                             <br>
+        </p>
+        <br>
+
+        <p>
+          Hobbies/Interests: Shopping, Golfing, and watching TV .   <br>
+          What did you want to be when you were a little kid? A dentist. 
+        </p>
+        <br>
+
+    <h3><br><a name="Carolyn">Carolyn Kolaczyk</a></h3><br>
+        <img src="img/coordinators/Carolyn.JPG" width="300" alt="Carolyn" class="floatLeft">
+        <p>
+        <br>
+          Age:  20                         <br>
+          Hometown: Newton, MA
+        </p>
+        <br>
+
+        <p>
+          <b>Favorites</b>                         <br>
+          Color: Turquoise  <br>
+          Artist/Band:  Dan + Shay                      <br>
+          Food: Dessert                           <br>
+          Programming Language: Java             <br>
+          App: Youtube     <br>
+          Dessert: Chocolate Fudge Cake 
+        </p>
+        <br>
+
+        <p>
+           If I were an animal, I'd be a(n) <b>Dolphin.</b>        <br>
+           My birthday is <b>May 29th.</b>                  <br>
+           If I were an ice cream flavor, I'd be <b>Chocolate Chip Cookie Dough.</b>   <br>
+           If I had a superpower, it'd be <b>the ability to breathe underwater.</b>   <br>
+        </p>
+        <br>
+        <p> Hobbies/Interests: Gymnastics, Singing, and Cooking. <br>
+          What did you want to be when you were a little kid? A CIA secret agent. </p>
+        <br>
+
+            </div>
+      </div>
+
+      <div class="tabs">
+          <ul class="tab">
+                <li><a href="index.html">Home</a></li>
+                <li><b>About Artemis</b>
+                    <ul><li><a href="about.html">About Us</a></li>
+                      <li><b>Meet the Coordinators</b></li>
+                      <li><a href="advisor.html">Our Advisor</a></li>
+                      <li><a href="testimonials.html">Testimonials</a></li>
+                    </ul>
+                </li>
+                <li><a href="applications.html"> Apply </a></li>
+                <li><a href="schedule.html"> Schedule </a></li>
+                <li><a href="contact.html"> Contact Us </a></li>
+                <li><a href="gallery.html"> Student Gallery </a></li>
+                <li><a href="pastyears.html"> Past Years </a></li>
+                <li><a href="sponsors.html"> Sponsors </a></li>
+                <li><a href="resources.html"> Resources </a></li>
+                <li><a href="faq.html"> FAQ </a></li>
+          </ul>
+        </div>
+
+      <div class="page"></div>
+    </div>
+
+    <div class="end"></div>
+</body>
+
+</html>

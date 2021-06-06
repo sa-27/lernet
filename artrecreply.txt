@@ -1,0 +1,6 @@
+Dear [refname],
+
+	Thank you for taking the time to submit a recommendation on behalf of [studentname] for Artemis 2020. We appreciate your input and value your insights.
+
+
+Artemis Coordinators
